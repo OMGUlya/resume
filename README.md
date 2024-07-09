@@ -1,4 +1,4 @@
-This website was developed using an HTML and CSS course.
+This website was developed using an HTML and CSS.
 ![image](https://github.com/OMGUlya/resume/assets/170007042/dfae1681-fe22-4fda-84f3-b96c3400f571)
 ![image](https://github.com/OMGUlya/resume/assets/170007042/a420a5ee-9ac3-4617-8c25-a5b67da0a825)
 ![image](https://github.com/OMGUlya/resume/assets/170007042/6fa772c2-f56d-4c50-a550-8b30302b398f)
